@@ -1,0 +1,5 @@
+#!bin/sh
+cat b.txt | while read line
+do 
+	wget "https://www.allthesky.com/constellations/big/"$line
+done
