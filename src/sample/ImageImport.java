@@ -49,6 +49,9 @@ public class ImageImport {
         }
     }
 
+    //BITE
+
+
 
     public Image[] getTabImgLabel(){
         return tabImgLabel;
